@@ -1,5 +1,4 @@
 // Author : Seyed Mohammad Soheil Amini
-// Date : 1400/10/07
 // System of Complex
 #include <iostream>
 #include <math.h>
